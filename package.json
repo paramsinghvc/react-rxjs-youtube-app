@@ -1,0 +1,26 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "flexboxgrid": "^6.3.0",
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4",
+    "react-dom": "^15.1.0",
+    "react-flexbox-grid": "^0.9.6",
+    "react-grid-layout-cmelion": "^0.1.9",
+    "react-router": "^2.4.1",
+    "rx-dom": "^7.0.3",
+    "rxjs": "^5.0.0-beta.8",
+    "rxjs-es": "^5.0.0-beta.8",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
